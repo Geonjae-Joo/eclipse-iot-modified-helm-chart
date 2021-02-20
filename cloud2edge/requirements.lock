@@ -1,0 +1,9 @@
+dependencies:
+- name: hono
+  repository: https://eclipse.org/packages/charts/
+  version: ~1.3.19
+- name: ditto
+  repository: https://eclipse.org/packages/charts/
+  version: ~1.5.1
+digest: sha256:5d44ef571615415e3cd2c541e2f4137e69ba44e22aeeba9f11591afd1bc95da6
+generated: "2021-01-20T04:38:18.135491168-06:00"
